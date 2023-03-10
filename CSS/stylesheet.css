@@ -21,7 +21,7 @@ a {
 html {font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(71, 71, 71);
     background-color: #ffe9e4;
-    border: 0px solid;
+    border: solid;
     border-width: 5px;
     border-color: #ff9550;
 }
