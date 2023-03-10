@@ -1,0 +1,26 @@
+section {
+    background-color: #ff9550 ;
+    color: white;
+    text-align: center;
+    height: 200px;
+  }
+
+
+aside {
+    background-color: #ffbec0;
+    width: 150px;
+    height: 120px;
+    color: white;
+    text-align: left;
+}
+
+a {
+    color: #c45259;
+}
+
+html {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffe9e4;
+    border: 0px solid;
+    border-width: 5px;
+    border-color: #ff9550;
+}
