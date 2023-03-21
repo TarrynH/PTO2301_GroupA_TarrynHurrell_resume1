@@ -9,7 +9,7 @@ section {
 }
 
 img {
-    padding: 38px;
+    padding: 10px;
     border-radius: 50%;
     
 }
@@ -25,7 +25,7 @@ article1 {
     width: 40%;
     background-color: #ffbec0;
     padding-left: 20px;
-    padding-bottom: 80px;
+    padding-bottom: 150px;
 }
 
 article2 {
@@ -39,7 +39,7 @@ article2 {
 #menu {
     position: absolute;
     left: 330px;
-    top: 60px;
+    top: 40px;
     
 }
 
@@ -60,22 +60,19 @@ article2 {
 
 h1 {
     font-size: xx-large;
-    padding-left: 38px;
+    padding-left: 20px;
+    padding-top: 10px;
 }
 
-h2 {
-    padding: 0px;
-}
+
 
 #details {
-    
-    padding-top: 30px;
-    
+    padding-left: 20px;
+    text-align: left;
 }
 
 li {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     list-style-type: none;
-    padding-right: 30px;
-    padding-left: 0px;
+    
 }
